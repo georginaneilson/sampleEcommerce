@@ -10,6 +10,12 @@ npm run dev
 yarn dev
 ```
 
+## Test with
+
+```bash
+npm run test
+```
+
 Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
